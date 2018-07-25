@@ -1,0 +1,20 @@
+#btnRouge {
+	-fx-base:  rgb(236,84,54);
+	-fx-pref-width: 33px;
+	-fx-pref-height: 33px;
+	-fx-background-radius: 2em;	
+}
+
+#btnBleu {
+	-fx-base: rgb(0,128,255);
+	-fx-pref-width: 33px;
+	-fx-pref-height: 33px;
+	-fx-background-radius: 2em;
+}
+
+#btnVert {
+	-fx-base: rgb(43,210,13);
+	-fx-pref-width: 33px;
+	-fx-pref-height: 33px;
+	-fx-background-radius: 2em;
+}
